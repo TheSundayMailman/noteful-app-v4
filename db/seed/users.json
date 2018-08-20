@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "333333333333333333333300",
+    "fullname": "Bruce Wayne",
+    "username": "batman",
+    "password": "$2a$10$UGpZvHcJkDUsgbHEieDI7.EYuRTka4P1wojOtSYJmGCQ4BH/BNNXy"
+  },
+  {
+    "_id": "333333333333333333333301",
+    "fullname": "Dick Grayson",
+    "username": "nightwing",
+    "password": "$2a$10$UGpZvHcJkDUsgbHEieDI7.EYuRTka4P1wojOtSYJmGCQ4BH/BNNXy"
+  },
+  {
+    "_id": "333333333333333333333302",
+    "fullname": "Selina Kyle",
+    "username": "catwoman",
+    "password": "$2a$10$UGpZvHcJkDUsgbHEieDI7.EYuRTka4P1wojOtSYJmGCQ4BH/BNNXy"
+  }
+]
